@@ -1,15 +1,14 @@
-# Expense Tracker Frontend
+# Expense Tracker App
 
 ## Overview
 
 The Expense Tracker Frontend is a web application built with SvelteKit for managing and monitoring personal finances through a user-friendly interface. It interacts with the backend API to enable users to log, view, update, and categorize their expenses.
 
-## Table of Contents
+## Installation
 
 1. [Installation] Use the `make setup` command for running the application 
-2. After running Api endpoints available on http://localhost:5173/
+2. After running the application  available on http://localhost:5173/
 
-## Installation
 
 ### Prerequisites
 
