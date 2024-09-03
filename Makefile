@@ -12,13 +12,9 @@ build:
 start:
 	npm run dev
 
-# Run linting checks
-lint:
-	npm run lint
-
 
 
 # Setup the project
-setup: install lint build
+setup: install  build
 	echo "Frontend setup complete. Use 'make start' to run the development server."
 

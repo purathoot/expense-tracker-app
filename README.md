@@ -6,7 +6,7 @@ The Expense Tracker Frontend is a web application built with SvelteKit for manag
 
 ## Installation
 
-1. [Installation] Use the `make setup` command for running the application 
+1. [Installation] Use the `make setup` command for building the application the hit `make start`  to start development server.
 2. After running the application  available on http://localhost:5173/
 
 
